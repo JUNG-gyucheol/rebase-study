@@ -4,3 +4,4 @@ rebase study-3
 rebase study-4
 rebase study-5
 git study
+git commit -a -m "message
